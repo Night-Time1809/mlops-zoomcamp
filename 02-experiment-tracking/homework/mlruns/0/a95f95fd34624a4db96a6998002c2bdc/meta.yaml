@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/a95f95fd34624a4db96a6998002c2bdc/artifacts
+end_time: 1717432114120
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a95f95fd34624a4db96a6998002c2bdc
+run_name: resilient-auk-322
+run_uuid: a95f95fd34624a4db96a6998002c2bdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717432099082
+status: 3
+tags: []
+user_id: codespace

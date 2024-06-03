@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/ec65d99cc1e44435addcbf17a62fa692/artifacts
+end_time: 1717429679344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec65d99cc1e44435addcbf17a62fa692
+run_name: enthused-eel-387
+run_uuid: ec65d99cc1e44435addcbf17a62fa692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717429664198
+status: 3
+tags: []
+user_id: codespace

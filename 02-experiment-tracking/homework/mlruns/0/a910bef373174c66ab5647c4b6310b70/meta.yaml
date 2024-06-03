@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/a910bef373174c66ab5647c4b6310b70/artifacts
+end_time: 1717429546732
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a910bef373174c66ab5647c4b6310b70
+run_name: exultant-ray-960
+run_uuid: a910bef373174c66ab5647c4b6310b70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717429531261
+status: 3
+tags: []
+user_id: codespace
