@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/running-mlflow-examples/mlruns/233765991171124236/19faa80a06814781bae127fb5e602401/artifacts
+end_time: 1717408582524
+entry_point_name: ''
+experiment_id: '233765991171124236'
+lifecycle_stage: active
+run_id: 19faa80a06814781bae127fb5e602401
+run_name: blushing-doe-181
+run_uuid: 19faa80a06814781bae127fb5e602401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717408579709
+status: 3
+tags: []
+user_id: codespace
